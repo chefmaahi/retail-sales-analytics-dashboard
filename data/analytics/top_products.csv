@@ -1,0 +1,11 @@
+product_name,category,units_sold,net_revenue,profit,avg_margin
+Laptop,Electronics,215,9325770.03,1131235.79,11.34
+Smart TV,Electronics,271,8952551.48,1647044.13,18.16
+Sofa Set,Furniture,263,8811168.54,2505583.96,27.76
+Smartphone,Electronics,274,5683845.17,1031508.48,16.75
+Dining Table,Furniture,236,4963094.98,1429076.23,28.15
+Wardrobe,Furniture,256,4439241.7,1367844.59,29.55
+Tablet,Electronics,236,4075836.61,1010188.8,24.46
+Wooden Desk,Furniture,240,2727301.21,695236.53,25.19
+Office Chair,Furniture,223,1826291.66,529869.84,27.85
+Saree,Clothing,270,1280339.19,605474.55,47.18

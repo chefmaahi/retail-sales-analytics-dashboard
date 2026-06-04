@@ -1,0 +1,6 @@
+payment_method,transactions,total_value,pct
+UPI,1035,12953352.94,20.7
+Net Banking,1021,14532917.56,20.42
+Debit Card,1003,12622401.44,20.06
+Cash,974,13112222.58,19.48
+Credit Card,967,13390689.3,19.34

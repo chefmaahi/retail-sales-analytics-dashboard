@@ -1,0 +1,37 @@
+product_id,product_name,category,unit_price,unit_cost,profit_margin
+PROD001,Laptop,Electronics,45000,38000,15.56
+PROD002,Smartphone,Electronics,22000,17000,22.73
+PROD003,Tablet,Electronics,18000,13000,27.78
+PROD004,Smart TV,Electronics,35000,27000,22.86
+PROD005,Wireless Earbuds,Electronics,3500,2200,37.14
+PROD006,Router,Electronics,2800,1900,32.14
+PROD007,Men's T-Shirt,Clothing,799,350,56.2
+PROD008,Women's Kurti,Clothing,1299,600,53.81
+PROD009,Denim Jeans,Clothing,2499,1200,51.98
+PROD010,Winter Jacket,Clothing,3999,2200,44.99
+PROD011,Formal Shirt,Clothing,1799,900,49.97
+PROD012,Saree,Clothing,4999,2500,49.99
+PROD013,Basmati Rice 5kg,Groceries,450,310,31.11
+PROD014,Cooking Oil 1L,Groceries,180,130,27.78
+PROD015,Whole Wheat Flour 5kg,Groceries,250,190,24.0
+PROD016,Sugar 1kg,Groceries,55,42,23.64
+PROD017,Pulses 1kg,Groceries,140,100,28.57
+PROD018,Tea Powder 500g,Groceries,210,155,26.19
+PROD019,Office Chair,Furniture,8500,5800,31.76
+PROD020,Wooden Desk,Furniture,12000,8500,29.17
+PROD021,Bookshelf,Furniture,6500,4500,30.77
+PROD022,Sofa Set,Furniture,35000,24000,31.43
+PROD023,Dining Table,Furniture,22000,15000,31.82
+PROD024,Wardrobe,Furniture,18000,12000,33.33
+PROD025,Cricket Bat,Sports,2999,1800,39.98
+PROD026,Yoga Mat,Sports,899,550,38.82
+PROD027,Dumbbells Set,Sports,3499,2200,37.12
+PROD028,Running Shoes,Sports,4999,3200,35.99
+PROD029,Badminton Racket,Sports,1499,900,39.96
+PROD030,Cycle Helmet,Sports,1299,800,38.41
+PROD031,Face Wash 100ml,Cosmetics,299,160,46.49
+PROD032,Moisturiser 50g,Cosmetics,499,280,43.89
+PROD033,Lipstick,Cosmetics,599,310,48.25
+PROD034,Foundation,Cosmetics,899,520,42.16
+PROD035,Hair Serum 100ml,Cosmetics,699,400,42.78
+PROD036,Sunscreen SPF50,Cosmetics,450,270,40.0

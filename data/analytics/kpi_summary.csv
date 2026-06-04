@@ -1,0 +1,2 @@
+total_transactions,unique_customers,total_units_sold,gross_revenue,total_discount_given,net_revenue,total_profit,avg_profit_margin,avg_order_value,total_returns,return_rate_pct
+5000,500,9776,71523286.01,4911702.19,66611583.82,16698639.46,32.57,13322.32,360,7.2
