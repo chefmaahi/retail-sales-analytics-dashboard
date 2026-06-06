@@ -39,7 +39,7 @@ A comprehensive retail sales analytics system that:
 
 ## Project Structure
 ```bash
-git clone https://github.com/YOUR_USERNAME/retail-sales-analytics-dashboard.git
+git clone https://github.com/chefmaahi/retail-sales-analytics-dashboard.git
 cd retail-sales-analytics-dashboard
 ```
 ```bash
