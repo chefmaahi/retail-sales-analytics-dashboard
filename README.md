@@ -22,6 +22,11 @@ A comprehensive retail sales analytics system that:
 
 ---
 
+## Live Dashboard
+🔗 [View Tableau Public Dashboard] ( https://public.tableau.com/app/profile/mahadev.kishan.gurram/viz/Real-TimeSalesPerformanceAnalyticsDashboard/Real-TimeSalesPerformanceAnalyticsDashboard?publish=yes )
+
+---
+
 ## Tech Stack
 | Tool | Purpose |
 |------|---------|
