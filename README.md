@@ -10,8 +10,8 @@
 
 ## Project Overview
 A comprehensive retail sales analytics system that:
-- Processes 5,000 transactions across 5 regions & 6 categories
-- Computes 15+ KPIs (Revenue, Profit, AOV, Return Rate)
+- Processes 5,000 transactions.
+- Computes 7 KPIs (Revenue, Profit, AOV, Return Rate)
 - Performs 6-month revenue forecasting using Linear Regression
 - Segments customers using RFM analysis
 - Visualises insights via Tableau Public dashboard
